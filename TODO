@@ -1,0 +1,22 @@
+OPPGAVEN:
+Teamoppgave: Morse Generator!
+Man skal kunne skrive inn ord i et inputfelt, som oversettes til morsesignaler etter entertrykk.
+Jeg legger ved et array med morsekoder, så dere slipper å skrive dette for hånd selv.
+
+Gå sammen i teamene deres - planlegg og jobb sammen for å finne en løsning - pass på at alle får bidratt!
+Blir dere tidlig ferdig, så lag gjerne en unitTest som sjekker at bokstaven man skriver inn blir gjort om til riktig symbol, 
+og en som sjekker at funksjonen kun behandler bokstaver fra input - ikke tall og #¤%& osv. :)
+ Finn gjerne på flere tester selv! :D
+
+ TODO:
+ 
+ Lage oppsettet (input / output)
+ Alfabetarray (henrik)
+ Loop som kjører gjennom begge array [0] = [0]
+ Eventlistener keydown (inputfeltet)
+ 
+ 
+ 
+ 
+ Lage lydfiler til morsekoder
+
